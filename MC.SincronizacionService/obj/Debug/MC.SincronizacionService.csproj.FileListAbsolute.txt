@@ -227,7 +227,6 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincr
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.BusinessService.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.DataService.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.Utilidades.pdb
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.SincronizacionService.dll

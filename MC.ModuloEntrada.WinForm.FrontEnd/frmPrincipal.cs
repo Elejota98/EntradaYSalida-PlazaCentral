@@ -1652,7 +1652,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                     else
                     {
                         _frmPrincipal_Presenter.EstadoControl();
-                        if (_VehiculoTalanquera == true)
+                        if (_VehiculoTalanquera == true && _VehiculoMueble==false)
                         {
                             bool sound = false;
                             //_frmPrincipal_Presenter.AlistarTarjeta();
@@ -1718,7 +1718,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                     else
                     {
                         _frmPrincipal_Presenter.EstadoControl();
-                        if (_VehiculoTalanquera == false)
+                        if (_VehiculoTalanquera == false && _VehiculoMueble==false)
                         {
                             Presentacion = Pantalla.SalvaPantallas;
                         }

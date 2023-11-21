@@ -83,7 +83,7 @@ namespace MC.ControlDevice
 
                     }
                     //string BB = Response.Substring(4, 1);
-                    if (Response.Substring(4, 1) == "1")
+                    if (Response.Substring(5, 1) == "1")
                     {
                         //_sBarrera = true;
                         _StatesControl = StatesControl.VehiculoTalanquera;
