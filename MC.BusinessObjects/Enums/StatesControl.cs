@@ -11,10 +11,13 @@ namespace MC.BusinessObjects.Enums
         Conexion_Exitosa,
         Error_Conexion,
         BotonPresionado,
+        EstadoVehiculoMueble,
         VehiculoMueble,
         NoHayCarro,
         VehiculoTalanquera,
+        EstadoVehiculoTalanquera,
         VahiculoSalioTalanquera,
+        EstadoVahiculoSalioTalanquera,
         NoBoton,
 
     }
